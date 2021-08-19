@@ -5,7 +5,6 @@
 <img width="672" alt="3" src="https://user-images.githubusercontent.com/83283144/129886667-fdf07309-d824-42c0-8cbd-8e5fd573f9e7.png">
 <img width="672" alt="4" src="https://user-images.githubusercontent.com/83283144/129886678-24634f00-317e-4806-bdaf-debef4b84dc7.png">
 <img width="669" alt="5" src="https://user-images.githubusercontent.com/83283144/129886683-42b4eea8-7f45-48b5-bfe2-1e9d011b5eda.png">
-![6](https://user-images.githubusercontent.com/83283144/129886702-b086d2ef-38fe-4c25-9b99-bfc3442e6327.png)
 
 
 Ongoing Frontend Development of a Thrift Store called Thrifton using html, css and bootstrap where in user can donate or buy products.
